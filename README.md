@@ -45,7 +45,7 @@ $ yarn start
 ```
 
 ## :rotating_light: Attetion
-The products inside the app come from a [json-server](https://github.com/typicode/json-server) file. With that in mind, run the following:
+The products inside the app come from a [json-server](https://github.com/typicode/json-server) file. With that in mind, run the following in a second terminal:
 
 ```
 $ json-server server.json -p 3333
